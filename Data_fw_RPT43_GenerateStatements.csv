@@ -1,0 +1,4 @@
+Prm_UserName,Prm_Password,Prm_branchids,Prm_MinBalance,Prm_Routes
+qa,qa,1,100,"["""",""A-FS"",""B-FS"",""C-FS"",""COM-FS"",""D-FS"",""E-FS"",""F-FS"",""G-FS"",""H-FS"",""HS"",""TS-FS"",""TW-FS""]"
+PERFEMP1,PERFEMP1,1,110,"["""",""A-FS"",""B-FS"",""C-FS"",""COM-FS"",""D-FS"",""E-FS"",""F-FS"",""G-FS"",""H-FS"",""HS"",""TS-FS"",""TW-FS""]"
+PERFEMP2,PERFEMP2,1,115,"["""",""A-FS"",""B-FS"",""C-FS"",""COM-FS"",""D-FS"",""E-FS"",""F-FS"",""G-FS"",""H-FS"",""HS"",""TS-FS"",""TW-FS""]"
